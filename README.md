@@ -20,9 +20,9 @@ Tingen is a collection of projects and utilities for use with [Netsmart's Avatar
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-WebService"><img src="https://github.com/spectrum-health-systems/Tingen-WebService/blob/main/.github/image/logo/TingenWebService_logo_320x568.png"></a>
 			</td>
-			<td>
-				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png"></a>
-			</td>
+		</tr>
+		<tr>
+			<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png"></a>
 		</tr>
 	</table>
 </div>
