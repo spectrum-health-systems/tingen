@@ -78,7 +78,7 @@ You can find all the documentation you could ever want about Tingen (and related
 ## Tingen Lieutenant
 
 <div align="center">
-	<table align="center">
+	<table border="0">
     	<tr>
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-Lieutenant"><img src="https://github.com/spectrum-health-systems/Tingen-Lieutenant/blob/main/.github/image/logo/TingenLieutenant_logo_320x420.png"></a>
