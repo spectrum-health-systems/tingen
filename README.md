@@ -48,7 +48,7 @@ For more infomation about the Tingen Web Service, please visit the [repository](
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png" width="180"></a>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png" width="190"></a>
 			</td>
 		</tr>
 	</table>
@@ -67,7 +67,7 @@ The Tingen Web Service requires [**Outpost31**](https://github.com/spectrum-heal
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png" width="320"></a>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png" width="315"></a>
 			</td>
 		</tr>
 	</table>
@@ -78,11 +78,17 @@ You can find all the documentation you could ever want about Tingen (and related
 ## Tingen Lieutenant
 
 <div align="center">
-		<table>
-    		<tr>
+	<table>
+    	<tr>
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-Lieutenant"><img src="https://github.com/spectrum-health-systems/Tingen-Lieutenant/blob/main/.github/image/logo/TingenLieutenant_logo_320x420.png"></a>
 			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/version/v2.1.png" width="315"></a>
+			</td>
+		</tr>
 	</table>
 </div>
 
