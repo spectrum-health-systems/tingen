@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![logo](.github/image/logo/Tingen_logo_320x420.png)
+  ![logo](.github/image/logo/Tingen_logo_480x631.png)
 
   ![Release 25.6](https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png)
 
