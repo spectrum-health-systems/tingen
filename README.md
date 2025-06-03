@@ -86,7 +86,7 @@ You can find all the documentation you could ever want about Tingen (and related
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/version/v2.1.png" width="70"></a>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/version/v2.1.png" width="70" align="center"></a>
 			</td>
 		</tr>
 	</table>
