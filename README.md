@@ -23,7 +23,7 @@ Tingen is a collection of projects and utilities for use with [Netsmart's Avatar
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png" width="250"></a>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png" width="300" align="center"></a>
 			</td>
 		</tr>
 	</table>
