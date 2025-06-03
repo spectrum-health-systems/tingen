@@ -48,7 +48,7 @@ For more infomation about the Tingen Web Service, please visit the [repository](
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png" width="220"></a>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png" width="180"></a>
 			</td>
 		</tr>
 	</table>
@@ -63,6 +63,11 @@ The Tingen Web Service requires [**Outpost31**](https://github.com/spectrum-heal
 		<tr>
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/.github/image/logo/TingenDocumentation_logo_320x420.png"></a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/release/release-25.6.png" width="320"></a>
 			</td>
 		</tr>
 	</table>
