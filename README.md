@@ -86,7 +86,7 @@ You can find all the documentation you could ever want about Tingen (and related
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/version/v2.1.png" width="315"></a>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/version/v2.1.png" width="70"></a>
 			</td>
 		</tr>
 	</table>
@@ -101,6 +101,11 @@ You can find all the documentation you could ever want about Tingen (and related
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-Commander"><img src="https://github.com/spectrum-health-systems/Tingen-Commander/blob/main/.github/image/logo/TingenCommander_logo_320x420.png"></a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/version/v2.1.png" width="70"></a>
+			</td>
+		</tr>
 	</table>
 </div>
 
@@ -111,6 +116,11 @@ You can find all the documentation you could ever want about Tingen (and related
 		<tr>
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-DevDeploy"><img src="https://github.com/spectrum-health-systems/Tingen-DevDeploy/blob/main/.github/image/logo/TingenDevDeploy_logo_320x420.png"></a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/spectrum-health-systems/tingen/blob/main/.github/image/version/v2.1.png" width="70"></a>
 			</td>
 		</tr>
 	</table>
